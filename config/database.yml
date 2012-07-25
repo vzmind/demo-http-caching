@@ -1,0 +1,18 @@
+development:
+  adapter: postgresql
+  database: http-caching
+  encoding: utf8
+  pool: 5
+  username: rails
+  password: 
+  host: localhost 
+  port: 5432
+production:
+  adapter: postgresql
+  database: http-caching
+  encoding: utf8
+  pool: 5
+  username: **********
+  password: ****************
+  host: ************
+  port: 5432
